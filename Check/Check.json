@@ -1,9 +1,9 @@
 {
-  "getData": true,
-  "data_mapLink": "ture",
+  "getData": false,
+  "data_mapLink": "false",
   "data_mapLink_tree": "false",
-  "atc": "ture",
-  "admob": "ture",
+  "atc": "false", 
+  "admob": "false",
   "NameFile": [
     {
       "name_livik": "map_formallivik_2.5.0.17325.pak",
