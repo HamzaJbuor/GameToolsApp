@@ -35,7 +35,7 @@
   ],
   "Main": [
     {
-      "check": true,
+      "check": false,
       "news": "جاري تحديث التطبيق ...",
       "update": 14
     }
