@@ -16,16 +16,16 @@
   "mapLink": [
     {
       "news_mapLink": "يجب عليك تفعيلها كل مرة تدخل اللعبة",
-      "livik": "https://archive.org/download/map_formallivik_2.6.0.17525.pak/map_formallivik_2.6.0.17525.pak",
-      "erangel": "https://archive.org/download/base_part1_2.6.0.17525.pak/base_part1_2.6.0.17525.pak",
+      "livik": "",
+      "erangel": "https://archive.org/download/base_part1_2.7.0.17735/base_part1_2.7.0.17735.pak",
       "Sanhok": "",
-      "vikendi": "https://archive.org/download/map_borderland_2.6.0.175251/map_borderland_2.6.0.17525%5B1%5D.pak",
+      "vikendi": "",
       "black": ""
     }
   ],
   "mapLink_tree": [
     {
-      "news_mapLink_tree": "يجب عليك تفعيلها كل 8 ساعات",
+      "news_mapLink_tree": "يجب عليك تفعيلها كل مرة تدخل اللعبة",
       "livik_tree": "",
       "erangel_tree": "",
       "Sanhok_tree": "",
@@ -36,7 +36,7 @@
   "Main": [
     {
       "check": false,
-      "news": "لكي تحصل على ازالة العشب لجميع الخرائط قم بمشارك التطبيق مع كل من تعرفه ولا تنسى تقييم التطبيق ب 5 نجوم  لكي يتم تحديثه ... شكرا لكم ",
+      "news": " تم اضافة ازالة العشب لخريطة ايرنجل ",
       "update": 14
     }
   ],
@@ -62,8 +62,8 @@
   ],
   "VersionF": [
     {
-      "V1": 5,
-      "V2": 5
+      "V1": 6,
+      "V2": 6
     }
   ]
 }
